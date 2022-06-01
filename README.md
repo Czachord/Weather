@@ -1,7 +1,7 @@
 # Weather
 
 
-Python program for checking the weather in countries around the world..
+Python program for checking the weather in countries around the world using BeautifulSoup4.
   
 An example of an action:
 
