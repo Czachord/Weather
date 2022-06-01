@@ -1,4 +1,3 @@
-from turtle import title
 from bs4 import BeautifulSoup
 from tabulate import tabulate
 import requests, sys
